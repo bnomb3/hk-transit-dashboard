@@ -8,7 +8,14 @@
   },
   "dashboard": {
     "title": "香港公共交通儀表板",
-    "lastUpdated": "最後更新"
+    "lastUpdated": "最後更新",
+    "language": "語言",
+    "theme": "主題"
+  },
+  "theme": {
+    "system": "系統",
+    "light": "淺色",
+    "dark": "深色"
   },
   "table": {
     "header": {

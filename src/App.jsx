@@ -16,6 +16,7 @@ import {
 
 import { updateLuxonLocale } from "./i18n/config";
 import { usePanels } from "./hooks/usePanels";
+import { useTheme } from "./hooks/useTheme";
 import PanelWrapper from "./components/PanelWrapper";
 import AddPanelModal, { OPERATOR_STYLE } from "./components/wizard/AddPanelModal";
 
@@ -94,6 +95,7 @@ function Dashboard({ currentTime, lang, setLang }) {
   const { panels, addPanel, removePanel, reorderPanels } = usePanels();
   const [editMode,   setEditMode]   = useState(false);
   const [showWizard, setShowWizard] = useState(false);
+  const [theme, setTheme] = useTheme();
 
   useEffect(() => {
     i18n.changeLanguage(lang);
@@ -120,7 +122,7 @@ function Dashboard({ currentTime, lang, setLang }) {
             {Object.entries(OPERATOR_STYLE).map(([op, s]) => (
               <span
                 key={op}
-                className="badge"
+                className={`badge${s.className ? ` ${s.className}` : ""}`}
                 style={{ background: s.bg, color: s.color }}
               >
                 {t(`company.${op === "ctb" ? "citybus" : op}`)}
@@ -130,7 +132,7 @@ function Dashboard({ currentTime, lang, setLang }) {
         </div>
         <div className="col-12 col-xl-5 text-xl-end mt-1 mb-3 my-xl-3">
           <div>
-            <span className="d-block d-xxl-inline">
+            <span className="d-block d-sm-inline">
               {t("dashboard.lastUpdated")}:{" "}
             </span>
             <span className="fw-bold">
@@ -142,32 +144,46 @@ function Dashboard({ currentTime, lang, setLang }) {
                   timeZoneName: "short",
                 })}
             </span>
-            <select
-              className="form-select form-select-sm d-inline-block ms-2"
-              value={lang}
-              onChange={(e) => setLang(e.target.value)}
-              style={{ width: "70px" }}
-            >
-              <option value="en">En</option>
-              <option value="zh-HK">繁</option>
-              <option value="zh-CN">简</option>
-            </select>
           </div>
-          <div className="mt-2">
-            <button
-              className={`btn btn-sm${editMode ? " btn-warning" : " btn-outline-secondary"}`}
-              onClick={() => setEditMode((m) => !m)}
-            >
-              {editMode ? t("wizard.done") : t("wizard.editPanels")}
-            </button>
-            {!editMode && (
-              <button
-                className="btn btn-sm btn-success ms-2"
-                onClick={() => setShowWizard(true)}
+          <div className="mt-2 d-flex flex-wrap justify-content-center justify-content-xl-end gap-2">
+            <div className="d-flex gap-2">
+              <select
+                className="form-select form-select-sm w-auto"
+                aria-label={t("dashboard.language")}
+                value={lang}
+                onChange={(e) => setLang(e.target.value)}
               >
-                {t("wizard.addPanel")}
+                <option value="en">En</option>
+                <option value="zh-HK">繁</option>
+                <option value="zh-CN">简</option>
+              </select>
+              <select
+                className="form-select form-select-sm w-auto"
+                aria-label={t("dashboard.theme")}
+                value={theme}
+                onChange={(e) => setTheme(e.target.value)}
+              >
+                <option value="system">{t("theme.system")}</option>
+                <option value="light">{t("theme.light")}</option>
+                <option value="dark">{t("theme.dark")}</option>
+              </select>
+            </div>
+            <div className="d-flex gap-2">
+              <button
+                className={`btn btn-sm${editMode ? " btn-warning" : " btn-outline-secondary"}`}
+                onClick={() => setEditMode((m) => !m)}
+              >
+                {editMode ? t("wizard.done") : t("wizard.editPanels")}
               </button>
-            )}
+              {!editMode && (
+                <button
+                  className="btn btn-sm btn-success"
+                  onClick={() => setShowWizard(true)}
+                >
+                  {t("wizard.addPanel")}
+                </button>
+              )}
+            </div>
           </div>
         </div>
       </div>

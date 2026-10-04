@@ -37,7 +37,7 @@ function getMtrStationList(line, lang) {
 }
 
 export const OPERATOR_STYLE = {
-  mtr:     { bg: '#162547', color: 'white' },
+  mtr:     { bg: '#162547', color: 'white', className: 'brand-dark' },
   kmb:     { bg: '#d93934', color: 'white' },
   ctb:     { bg: '#ffdd00', color: 'black' },
   gmb:     { bg: '#4da94d', color: 'white' },
@@ -406,8 +406,8 @@ export default function AddPanelModal({ lang, onAdd, onClose }) {
                 return (
                   <button
                     key={op}
-                    className={`btn fw-bold${selected ? ' border border-3 border-dark' : ''}`}
-                    style={{ background: s.bg, color: s.color, minWidth: 100, opacity: selected ? 1 : 0.7 }}
+                    className={`btn fw-bold${selected ? ' border border-3' : ''}${s.className ? ` ${s.className}` : ''}`}
+                    style={{ background: s.bg, color: s.color, minWidth: 100, opacity: selected ? 1 : 0.7, '--bs-border-color': 'var(--bs-emphasis-color)' }}
                     onClick={() => update({ type: op })}
                   >
                     {t(`company.${op === 'ctb' ? 'citybus' : op}`)}

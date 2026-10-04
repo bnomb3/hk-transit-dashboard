@@ -8,7 +8,14 @@
   },
   "dashboard": {
     "title": "Hong Kong Transit Dashboard",
-    "lastUpdated": "Last updated"
+    "lastUpdated": "Last updated",
+    "language": "Language",
+    "theme": "Theme"
+  },
+  "theme": {
+    "system": "System",
+    "light": "Light",
+    "dark": "Dark"
   },
   "table": {
     "header": {

@@ -6,6 +6,6 @@ global.fetch = () => new Promise(() => {});
 
 test('renders the dashboard', () => {
   render(<App />);
-  // Language selector is always present regardless of active locale
-  expect(screen.getByRole('combobox')).toBeInTheDocument();
+  // Language and theme selectors are always present regardless of active locale
+  expect(screen.getAllByRole('combobox')).toHaveLength(2);
 });
