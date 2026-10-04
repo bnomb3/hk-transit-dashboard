@@ -40,7 +40,7 @@ function GMBPanelHeader({
           className="text-capitalize"
           scope="col"
           colSpan="4"
-          style={{ backgroundColor: backgroundColor }}
+          style={{ color: "black", backgroundColor: backgroundColor }}
         >
           {`🚐 ${t("company.gmb")} ${route} @ ${fromStopText}`}
         </th>

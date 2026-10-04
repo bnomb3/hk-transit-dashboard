@@ -9,6 +9,19 @@
     <link rel="apple-touch-icon" href="./logo192.png" />
     <link rel="manifest" href="./manifest.json" />
     <title>Hong Kong Transit Dashboard</title>
+    <script>
+      // Apply the saved theme before first paint; mirrors src/hooks/useTheme.js
+      (function () {
+        var theme = "system";
+        try {
+          theme = localStorage.getItem("transit_theme") || theme;
+        } catch (e) {}
+        if (theme !== "light" && theme !== "dark") {
+          theme = matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+        }
+        document.documentElement.setAttribute("data-bs-theme", theme);
+      })();
+    </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>

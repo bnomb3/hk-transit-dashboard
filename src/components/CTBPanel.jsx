@@ -39,7 +39,7 @@ function CTBPanelHeader({
           className="text-capitalize"
           scope="col"
           colSpan={2 + (hasRemarks ? 1 : 0) + (journeyDuration > 0 && stopsData.length == 2 ? 1 : 0)}
-          style={{ backgroundColor: backgroundColor }}
+          style={{ color: "black", backgroundColor: backgroundColor }}
         >
           {`🚌 ${t("company.citybus")} ${route} @ ${fromStopText}`}
         </th>

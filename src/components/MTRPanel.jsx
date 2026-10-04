@@ -71,6 +71,11 @@ const MTR_DEFAULT_COLORS = {
   bg: "#162547",
 };
 
+// Too dark to show against the dark theme; see .brand-dark in index.css
+const tableClassName = (backgroundColor) =>
+  "table table-bordered align-middle" +
+  (backgroundColor === MTR_DEFAULT_COLORS.bg ? " brand-dark" : "");
+
 function MTRPanelHeader({
   currentTime,
   lang,
@@ -352,7 +357,7 @@ export default function MTRPanel({
   return (
     <div className="App">
       <table
-        className="table table-bordered align-middle"
+        className={tableClassName(backgroundColor)}
         style={{ borderColor: backgroundColor }}
       >
         <MTRPanelHeader
