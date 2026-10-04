@@ -1,0 +1,96 @@
+{
+  "company": {
+    "citybus": "CityBus",
+    "kmb": "KMB",
+    "gmb": "GMB",
+    "mtr": "MTR",
+    "timetable": "Timetable"
+  },
+  "dashboard": {
+    "title": "Hong Kong Transit Dashboard",
+    "lastUpdated": "Last updated"
+  },
+  "table": {
+    "header": {
+      "nextBus": "Next Bus",
+      "nextTrain": "Next Train",
+      "journey": "Journey",
+      "destination": "Dest",
+      "direction": "Direction",
+      "remarks": "Remarks",
+      "estimatedOffTime": "Estimated Off Time",
+      "nextDeparture": "Next Departure"
+    },
+    "body": {
+      "noBus": "Seems like there's no bus at this time",
+      "noMiniBus": "Seems like there's no mini bus at this time",
+      "noTrain": "Seems like there's no train at this time",
+      "minutes": "~{{count}} minutes",
+      "loading": "Loading",
+      "noDeparture": "No more departures today"
+    },
+    "direction": {
+      "up": "Up",
+      "down": "Down",
+      "north": "North",
+      "south": "South",
+      "east": "East",
+      "west": "West",
+      "airport": "Airport",
+      "hongkong": "Hong Kong"
+    }
+  },
+  "wizard": {
+    "title": "Add Panel",
+    "addPanel": "+ Add Panel",
+    "editPanels": "Edit Panels",
+    "done": "Done",
+    "cancel": "Cancel",
+    "back": "Back",
+    "next": "Next",
+    "confirm": "Add to Dashboard",
+    "operator": "Operator",
+    "selectOperator": "Select a transit operator",
+    "routeNumber": "Route number",
+    "validating": "Validating...",
+    "routeValid": "Route found ✓",
+    "routeNotFound": "Route not found",
+    "validationFailed": "Validation failed — check your connection",
+    "selectRegion": "This route runs in multiple regions — select one",
+    "selectLine": "Select line",
+    "fromStation": "From station",
+    "toStation": "To station",
+    "direction": "Direction",
+    "serviceType": "Service variant",
+    "serviceTypeHint": "This route has multiple service variants — select one",
+    "service": "Service",
+    "fromStop": "From stop",
+    "toStop": "To stop",
+    "journeyDuration": "Riding time from boarding to alighting stop (minutes)",
+    "optional": "optional",
+    "noPreference": "— none —",
+    "select": "— select —",
+    "stopsLoading": "Loading stops...",
+    "confirmTitle": "Confirm — panel will be added to the dashboard",
+    "deletePanel": "Delete panel",
+    "timetableHint": "Create a panel from your own timetable, e.g. a residents' or company shuttle",
+    "timetableName": "Name",
+    "timetableNamePlaceholder": "e.g. Estate Shuttle",
+    "timetableFrom": "From",
+    "timetableTo": "To",
+    "weekdayTimes": "Weekday departure times",
+    "holidayTimes": "Weekend and public holiday departure times",
+    "timesHint": "24-hour times separated by spaces, commas or new lines, e.g. 07:00, 07:30, 08:15",
+    "holidayTimesHint": "Leave blank to use the weekday times every day",
+    "timesCount": "{{count}} departures",
+    "timesInvalid": "Not valid times: {{list}}",
+    "towards": "To {{dest}}",
+    "region": "Region",
+    "regions": {
+      "HKI": "Hong Kong Island",
+      "KLN": "Kowloon",
+      "NT": "New Territories"
+    },
+    "minutes": "{{count}} min"
+  }
+}

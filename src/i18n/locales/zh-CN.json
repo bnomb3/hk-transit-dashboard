@@ -1,0 +1,96 @@
+{
+  "company": {
+    "citybus": "城巴",
+    "kmb": "九巴",
+    "gmb": "专线小巴",
+    "mtr": "港铁",
+    "timetable": "自定时间表"
+  },
+  "dashboard": {
+    "title": "香港公共交通仪表板",
+    "lastUpdated": "最后更新"
+  },
+  "table": {
+    "header": {
+      "nextBus": "下一班车",
+      "nextTrain": "下一班列车",
+      "journey": "行程",
+      "destination": "目的地",
+      "direction": "方向",
+      "remarks": "备注",
+      "estimatedOffTime": "预计到达时间",
+      "nextDeparture": "下一班"
+    },
+    "body": {
+      "noBus": "暂时没有巴士服务",
+      "noMiniBus": "暂时没有小巴服务",
+      "noTrain": "暂时没有列车服务",
+      "minutes": "约{{count}}分钟",
+      "loading": "加载中",
+      "noDeparture": "今日已没有班次"
+    },
+    "direction": {
+      "up": "上行",
+      "down": "下行",
+      "north": "北行",
+      "south": "南行",
+      "east": "东行",
+      "west": "西行",
+      "airport": "机场",
+      "hongkong": "香港"
+    }
+  },
+  "wizard": {
+    "title": "新增面板",
+    "addPanel": "+ 新增面板",
+    "editPanels": "编辑面板",
+    "done": "完成",
+    "cancel": "取消",
+    "back": "上一步",
+    "next": "下一步",
+    "confirm": "加入仪表板",
+    "operator": "运营商",
+    "selectOperator": "请选择交通运营商",
+    "routeNumber": "路线号码",
+    "validating": "验证中…",
+    "routeValid": "路线已找到 ✓",
+    "routeNotFound": "找不到路线",
+    "validationFailed": "验证失败，请检查网络连接",
+    "selectRegion": "此路线在多个地区均有服务，请选择",
+    "selectLine": "选择路线",
+    "fromStation": "出发站",
+    "toStation": "目的站",
+    "direction": "方向",
+    "serviceType": "服务类型",
+    "serviceTypeHint": "此路线有多个服务类型，请选择",
+    "service": "服务",
+    "fromStop": "上车站",
+    "toStop": "下车站",
+    "journeyDuration": "乘车时间（由上车站至下车站，分钟）",
+    "optional": "可选",
+    "noPreference": "— 不指定 —",
+    "select": "— 请选择 —",
+    "stopsLoading": "加载站点中…",
+    "confirmTitle": "确认 — 面板将加入仪表板",
+    "deletePanel": "删除面板",
+    "timetableHint": "用自己的时间表创建面板，例如小区或公司穿梭巴士",
+    "timetableName": "名称",
+    "timetableNamePlaceholder": "例如：小区穿梭巴士",
+    "timetableFrom": "出发地",
+    "timetableTo": "目的地",
+    "weekdayTimes": "工作日发车时间",
+    "holidayTimes": "周末及公众假期发车时间",
+    "timesHint": "24 小时制，以空格、逗号或换行分隔，例如 07:00, 07:30, 08:15",
+    "holidayTimesHint": "留空则每天使用工作日时间",
+    "timesCount": "{{count}} 班",
+    "timesInvalid": "时间格式不正确：{{list}}",
+    "towards": "往 {{dest}}",
+    "region": "地区",
+    "regions": {
+      "HKI": "香港岛",
+      "KLN": "九龙",
+      "NT": "新界"
+    },
+    "minutes": "{{count}} 分钟"
+  }
+}

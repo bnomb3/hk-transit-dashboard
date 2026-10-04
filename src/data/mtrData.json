@@ -1,0 +1,2279 @@
+{
+  "stations": {
+    "AEL": {
+      "DT": [
+        {
+          "seq": 1,
+          "station": "AWE",
+          "stationId": "56",
+          "name_tc": "博覽館",
+          "name_sc": "博览馆",
+          "name_en": "AsiaWorld-Expo"
+        },
+        {
+          "seq": 2,
+          "station": "AIR",
+          "stationId": "47",
+          "name_tc": "機場",
+          "name_sc": "机场",
+          "name_en": "Airport"
+        },
+        {
+          "seq": 3,
+          "station": "TSY",
+          "stationId": "46",
+          "name_tc": "青衣",
+          "name_sc": "青衣",
+          "name_en": "Tsing Yi"
+        },
+        {
+          "seq": 4,
+          "station": "KOW",
+          "stationId": "45",
+          "name_tc": "九龍",
+          "name_sc": "九龙",
+          "name_en": "Kowloon"
+        },
+        {
+          "seq": 5,
+          "station": "HOK",
+          "stationId": "44",
+          "name_tc": "香港",
+          "name_sc": "香港",
+          "name_en": "Hong Kong"
+        }
+      ],
+      "UT": [
+        {
+          "seq": 1,
+          "station": "HOK",
+          "stationId": "44",
+          "name_tc": "香港",
+          "name_sc": "香港",
+          "name_en": "Hong Kong"
+        },
+        {
+          "seq": 2,
+          "station": "KOW",
+          "stationId": "45",
+          "name_tc": "九龍",
+          "name_sc": "九龙",
+          "name_en": "Kowloon"
+        },
+        {
+          "seq": 3,
+          "station": "TSY",
+          "stationId": "46",
+          "name_tc": "青衣",
+          "name_sc": "青衣",
+          "name_en": "Tsing Yi"
+        },
+        {
+          "seq": 4,
+          "station": "AIR",
+          "stationId": "47",
+          "name_tc": "機場",
+          "name_sc": "机场",
+          "name_en": "Airport"
+        },
+        {
+          "seq": 5,
+          "station": "AWE",
+          "stationId": "56",
+          "name_tc": "博覽館",
+          "name_sc": "博览馆",
+          "name_en": "AsiaWorld-Expo"
+        }
+      ]
+    },
+    "DRL": {
+      "DT": [
+        {
+          "seq": 1,
+          "station": "SUN",
+          "stationId": "54",
+          "name_tc": "欣澳",
+          "name_sc": "欣澳",
+          "name_en": "Sunny Bay"
+        },
+        {
+          "seq": 2,
+          "station": "DIS",
+          "stationId": "55",
+          "name_tc": "迪士尼",
+          "name_sc": "迪士尼",
+          "name_en": "Disneyland Resort"
+        }
+      ],
+      "UT": [
+        {
+          "seq": 1,
+          "station": "DIS",
+          "stationId": "55",
+          "name_tc": "迪士尼",
+          "name_sc": "迪士尼",
+          "name_en": "Disneyland Resort"
+        },
+        {
+          "seq": 2,
+          "station": "SUN",
+          "stationId": "54",
+          "name_tc": "欣澳",
+          "name_sc": "欣澳",
+          "name_en": "Sunny Bay"
+        }
+      ]
+    },
+    "EAL": {
+      "DT": [
+        {
+          "seq": 1,
+          "station": "LOW",
+          "stationId": "76",
+          "name_tc": "羅湖",
+          "name_sc": "罗湖",
+          "name_en": "Lo Wu"
+        },
+        {
+          "seq": 2,
+          "station": "SHS",
+          "stationId": "75",
+          "name_tc": "上水",
+          "name_sc": "上水",
+          "name_en": "Sheung Shui"
+        },
+        {
+          "seq": 3,
+          "station": "FAN",
+          "stationId": "74",
+          "name_tc": "粉嶺",
+          "name_sc": "粉岭",
+          "name_en": "Fanling"
+        },
+        {
+          "seq": 4,
+          "station": "TWO",
+          "stationId": "73",
+          "name_tc": "太和",
+          "name_sc": "太和",
+          "name_en": "Tai Wo"
+        },
+        {
+          "seq": 5,
+          "station": "TAP",
+          "stationId": "72",
+          "name_tc": "大埔墟",
+          "name_sc": "大埔墟",
+          "name_en": "Tai Po Market"
+        },
+        {
+          "seq": 6,
+          "station": "UNI",
+          "stationId": "71",
+          "name_tc": "大學",
+          "name_sc": "大学",
+          "name_en": "University"
+        },
+        {
+          "seq": 7,
+          "station": "FOT",
+          "stationId": "69",
+          "name_tc": "火炭",
+          "name_sc": "火炭",
+          "name_en": "Fo Tan"
+        },
+        {
+          "seq": 8,
+          "station": "SHT",
+          "stationId": "68",
+          "name_tc": "沙田",
+          "name_sc": "沙田",
+          "name_en": "Sha Tin"
+        },
+        {
+          "seq": 9,
+          "station": "TAW",
+          "stationId": "67",
+          "name_tc": "大圍",
+          "name_sc": "大围",
+          "name_en": "Tai Wai"
+        },
+        {
+          "seq": 10,
+          "station": "KOT",
+          "stationId": "8",
+          "name_tc": "九龍塘",
+          "name_sc": "九龙塘",
+          "name_en": "Kowloon Tong"
+        },
+        {
+          "seq": 11,
+          "station": "MKK",
+          "stationId": "65",
+          "name_tc": "旺角東",
+          "name_sc": "旺角东",
+          "name_en": "Mong Kok East"
+        },
+        {
+          "seq": 12,
+          "station": "HUH",
+          "stationId": "64",
+          "name_tc": "紅磡",
+          "name_sc": "红磡",
+          "name_en": "Hung Hom"
+        },
+        {
+          "seq": 13,
+          "station": "EXC",
+          "stationId": "94",
+          "name_tc": "會展",
+          "name_sc": "会展",
+          "name_en": "Exhibition Centre"
+        },
+        {
+          "seq": 14,
+          "station": "ADM",
+          "stationId": "2",
+          "name_tc": "金鐘",
+          "name_sc": "金钟",
+          "name_en": "Admiralty"
+        }
+      ],
+      "LMC-DT": [
+        {
+          "seq": 1,
+          "station": "LMC",
+          "stationId": "78",
+          "name_tc": "落馬洲",
+          "name_sc": "落马洲",
+          "name_en": "Lok Ma Chau"
+        },
+        {
+          "seq": 2,
+          "station": "SHS",
+          "stationId": "75",
+          "name_tc": "上水",
+          "name_sc": "上水",
+          "name_en": "Sheung Shui"
+        },
+        {
+          "seq": 3,
+          "station": "FAN",
+          "stationId": "74",
+          "name_tc": "粉嶺",
+          "name_sc": "粉岭",
+          "name_en": "Fanling"
+        },
+        {
+          "seq": 4,
+          "station": "TWO",
+          "stationId": "73",
+          "name_tc": "太和",
+          "name_sc": "太和",
+          "name_en": "Tai Wo"
+        },
+        {
+          "seq": 5,
+          "station": "TAP",
+          "stationId": "72",
+          "name_tc": "大埔墟",
+          "name_sc": "大埔墟",
+          "name_en": "Tai Po Market"
+        },
+        {
+          "seq": 6,
+          "station": "UNI",
+          "stationId": "71",
+          "name_tc": "大學",
+          "name_sc": "大学",
+          "name_en": "University"
+        },
+        {
+          "seq": 7,
+          "station": "FOT",
+          "stationId": "69",
+          "name_tc": "火炭",
+          "name_sc": "火炭",
+          "name_en": "Fo Tan"
+        },
+        {
+          "seq": 8,
+          "station": "SHT",
+          "stationId": "68",
+          "name_tc": "沙田",
+          "name_sc": "沙田",
+          "name_en": "Sha Tin"
+        },
+        {
+          "seq": 9,
+          "station": "TAW",
+          "stationId": "67",
+          "name_tc": "大圍",
+          "name_sc": "大围",
+          "name_en": "Tai Wai"
+        },
+        {
+          "seq": 10,
+          "station": "KOT",
+          "stationId": "8",
+          "name_tc": "九龍塘",
+          "name_sc": "九龙塘",
+          "name_en": "Kowloon Tong"
+        },
+        {
+          "seq": 11,
+          "station": "MKK",
+          "stationId": "65",
+          "name_tc": "旺角東",
+          "name_sc": "旺角东",
+          "name_en": "Mong Kok East"
+        },
+        {
+          "seq": 12,
+          "station": "HUH",
+          "stationId": "64",
+          "name_tc": "紅磡",
+          "name_sc": "红磡",
+          "name_en": "Hung Hom"
+        },
+        {
+          "seq": 13,
+          "station": "EXC",
+          "stationId": "94",
+          "name_tc": "會展",
+          "name_sc": "会展",
+          "name_en": "Exhibition Centre"
+        },
+        {
+          "seq": 14,
+          "station": "ADM",
+          "stationId": "2",
+          "name_tc": "金鐘",
+          "name_sc": "金钟",
+          "name_en": "Admiralty"
+        }
+      ],
+      "LMC-UT": [
+        {
+          "seq": 1,
+          "station": "ADM",
+          "stationId": "2",
+          "name_tc": "金鐘",
+          "name_sc": "金钟",
+          "name_en": "Admiralty"
+        },
+        {
+          "seq": 2,
+          "station": "EXC",
+          "stationId": "94",
+          "name_tc": "會展",
+          "name_sc": "会展",
+          "name_en": "Exhibition Centre"
+        },
+        {
+          "seq": 3,
+          "station": "HUH",
+          "stationId": "64",
+          "name_tc": "紅磡",
+          "name_sc": "红磡",
+          "name_en": "Hung Hom"
+        },
+        {
+          "seq": 4,
+          "station": "MKK",
+          "stationId": "65",
+          "name_tc": "旺角東",
+          "name_sc": "旺角东",
+          "name_en": "Mong Kok East"
+        },
+        {
+          "seq": 5,
+          "station": "KOT",
+          "stationId": "8",
+          "name_tc": "九龍塘",
+          "name_sc": "九龙塘",
+          "name_en": "Kowloon Tong"
+        },
+        {
+          "seq": 6,
+          "station": "TAW",
+          "stationId": "67",
+          "name_tc": "大圍",
+          "name_sc": "大围",
+          "name_en": "Tai Wai"
+        },
+        {
+          "seq": 7,
+          "station": "SHT",
+          "stationId": "68",
+          "name_tc": "沙田",
+          "name_sc": "沙田",
+          "name_en": "Sha Tin"
+        },
+        {
+          "seq": 8,
+          "station": "FOT",
+          "stationId": "69",
+          "name_tc": "火炭",
+          "name_sc": "火炭",
+          "name_en": "Fo Tan"
+        },
+        {
+          "seq": 9,
+          "station": "UNI",
+          "stationId": "71",
+          "name_tc": "大學",
+          "name_sc": "大学",
+          "name_en": "University"
+        },
+        {
+          "seq": 10,
+          "station": "TAP",
+          "stationId": "72",
+          "name_tc": "大埔墟",
+          "name_sc": "大埔墟",
+          "name_en": "Tai Po Market"
+        },
+        {
+          "seq": 11,
+          "station": "TWO",
+          "stationId": "73",
+          "name_tc": "太和",
+          "name_sc": "太和",
+          "name_en": "Tai Wo"
+        },
+        {
+          "seq": 12,
+          "station": "FAN",
+          "stationId": "74",
+          "name_tc": "粉嶺",
+          "name_sc": "粉岭",
+          "name_en": "Fanling"
+        },
+        {
+          "seq": 13,
+          "station": "SHS",
+          "stationId": "75",
+          "name_tc": "上水",
+          "name_sc": "上水",
+          "name_en": "Sheung Shui"
+        },
+        {
+          "seq": 14,
+          "station": "LMC",
+          "stationId": "78",
+          "name_tc": "落馬洲",
+          "name_sc": "落马洲",
+          "name_en": "Lok Ma Chau"
+        }
+      ],
+      "UT": [
+        {
+          "seq": 1,
+          "station": "ADM",
+          "stationId": "2",
+          "name_tc": "金鐘",
+          "name_sc": "金钟",
+          "name_en": "Admiralty"
+        },
+        {
+          "seq": 2,
+          "station": "EXC",
+          "stationId": "94",
+          "name_tc": "會展",
+          "name_sc": "会展",
+          "name_en": "Exhibition Centre"
+        },
+        {
+          "seq": 3,
+          "station": "HUH",
+          "stationId": "64",
+          "name_tc": "紅磡",
+          "name_sc": "红磡",
+          "name_en": "Hung Hom"
+        },
+        {
+          "seq": 4,
+          "station": "MKK",
+          "stationId": "65",
+          "name_tc": "旺角東",
+          "name_sc": "旺角东",
+          "name_en": "Mong Kok East"
+        },
+        {
+          "seq": 5,
+          "station": "KOT",
+          "stationId": "8",
+          "name_tc": "九龍塘",
+          "name_sc": "九龙塘",
+          "name_en": "Kowloon Tong"
+        },
+        {
+          "seq": 6,
+          "station": "TAW",
+          "stationId": "67",
+          "name_tc": "大圍",
+          "name_sc": "大围",
+          "name_en": "Tai Wai"
+        },
+        {
+          "seq": 7,
+          "station": "SHT",
+          "stationId": "68",
+          "name_tc": "沙田",
+          "name_sc": "沙田",
+          "name_en": "Sha Tin"
+        },
+        {
+          "seq": 8,
+          "station": "FOT",
+          "stationId": "69",
+          "name_tc": "火炭",
+          "name_sc": "火炭",
+          "name_en": "Fo Tan"
+        },
+        {
+          "seq": 9,
+          "station": "UNI",
+          "stationId": "71",
+          "name_tc": "大學",
+          "name_sc": "大学",
+          "name_en": "University"
+        },
+        {
+          "seq": 10,
+          "station": "TAP",
+          "stationId": "72",
+          "name_tc": "大埔墟",
+          "name_sc": "大埔墟",
+          "name_en": "Tai Po Market"
+        },
+        {
+          "seq": 11,
+          "station": "TWO",
+          "stationId": "73",
+          "name_tc": "太和",
+          "name_sc": "太和",
+          "name_en": "Tai Wo"
+        },
+        {
+          "seq": 12,
+          "station": "FAN",
+          "stationId": "74",
+          "name_tc": "粉嶺",
+          "name_sc": "粉岭",
+          "name_en": "Fanling"
+        },
+        {
+          "seq": 13,
+          "station": "SHS",
+          "stationId": "75",
+          "name_tc": "上水",
+          "name_sc": "上水",
+          "name_en": "Sheung Shui"
+        },
+        {
+          "seq": 14,
+          "station": "LOW",
+          "stationId": "76",
+          "name_tc": "羅湖",
+          "name_sc": "罗湖",
+          "name_en": "Lo Wu"
+        }
+      ]
+    },
+    "ISL": {
+      "DT": [
+        {
+          "seq": 1,
+          "station": "CHW",
+          "stationId": "37",
+          "name_tc": "柴灣",
+          "name_sc": "柴湾",
+          "name_en": "Chai Wan"
+        },
+        {
+          "seq": 2,
+          "station": "HFC",
+          "stationId": "36",
+          "name_tc": "杏花邨",
+          "name_sc": "杏花邨",
+          "name_en": "Heng Fa Chuen"
+        },
+        {
+          "seq": 3,
+          "station": "SKW",
+          "stationId": "35",
+          "name_tc": "筲箕灣",
+          "name_sc": "筲箕湾",
+          "name_en": "Shau Kei Wan"
+        },
+        {
+          "seq": 4,
+          "station": "SWH",
+          "stationId": "34",
+          "name_tc": "西灣河",
+          "name_sc": "西湾河",
+          "name_en": "Sai Wan Ho"
+        },
+        {
+          "seq": 5,
+          "station": "TAK",
+          "stationId": "33",
+          "name_tc": "太古",
+          "name_sc": "太古",
+          "name_en": "Tai Koo"
+        },
+        {
+          "seq": 6,
+          "station": "QUB",
+          "stationId": "32",
+          "name_tc": "鰂魚涌",
+          "name_sc": "鲗鱼涌",
+          "name_en": "Quarry Bay"
+        },
+        {
+          "seq": 7,
+          "station": "NOP",
+          "stationId": "31",
+          "name_tc": "北角",
+          "name_sc": "北角",
+          "name_en": "North Point"
+        },
+        {
+          "seq": 8,
+          "station": "FOH",
+          "stationId": "30",
+          "name_tc": "炮台山",
+          "name_sc": "炮台山",
+          "name_en": "Fortress Hill"
+        },
+        {
+          "seq": 9,
+          "station": "TIH",
+          "stationId": "29",
+          "name_tc": "天后",
+          "name_sc": "天后",
+          "name_en": "Tin Hau"
+        },
+        {
+          "seq": 10,
+          "station": "CAB",
+          "stationId": "28",
+          "name_tc": "銅鑼灣",
+          "name_sc": "铜锣湾",
+          "name_en": "Causeway Bay"
+        },
+        {
+          "seq": 11,
+          "station": "WAC",
+          "stationId": "27",
+          "name_tc": "灣仔",
+          "name_sc": "湾仔",
+          "name_en": "Wan Chai"
+        },
+        {
+          "seq": 12,
+          "station": "ADM",
+          "stationId": "2",
+          "name_tc": "金鐘",
+          "name_sc": "金钟",
+          "name_en": "Admiralty"
+        },
+        {
+          "seq": 13,
+          "station": "CEN",
+          "stationId": "1",
+          "name_tc": "中環",
+          "name_sc": "中环",
+          "name_en": "Central"
+        },
+        {
+          "seq": 14,
+          "station": "SHW",
+          "stationId": "26",
+          "name_tc": "上環",
+          "name_sc": "上环",
+          "name_en": "Sheung Wan"
+        },
+        {
+          "seq": 15,
+          "station": "SYP",
+          "stationId": "81",
+          "name_tc": "西營盤",
+          "name_sc": "西营盘",
+          "name_en": "Sai Ying Pun"
+        },
+        {
+          "seq": 16,
+          "station": "HKU",
+          "stationId": "82",
+          "name_tc": "香港大學",
+          "name_sc": "香港大学",
+          "name_en": "HKU"
+        },
+        {
+          "seq": 17,
+          "station": "KET",
+          "stationId": "83",
+          "name_tc": "堅尼地城",
+          "name_sc": "坚尼地城",
+          "name_en": "Kennedy Town"
+        }
+      ],
+      "UT": [
+        {
+          "seq": 1,
+          "station": "KET",
+          "stationId": "83",
+          "name_tc": "堅尼地城",
+          "name_sc": "坚尼地城",
+          "name_en": "Kennedy Town"
+        },
+        {
+          "seq": 2,
+          "station": "HKU",
+          "stationId": "82",
+          "name_tc": "香港大學",
+          "name_sc": "香港大学",
+          "name_en": "HKU"
+        },
+        {
+          "seq": 3,
+          "station": "SYP",
+          "stationId": "81",
+          "name_tc": "西營盤",
+          "name_sc": "西营盘",
+          "name_en": "Sai Ying Pun"
+        },
+        {
+          "seq": 4,
+          "station": "SHW",
+          "stationId": "26",
+          "name_tc": "上環",
+          "name_sc": "上环",
+          "name_en": "Sheung Wan"
+        },
+        {
+          "seq": 5,
+          "station": "CEN",
+          "stationId": "1",
+          "name_tc": "中環",
+          "name_sc": "中环",
+          "name_en": "Central"
+        },
+        {
+          "seq": 6,
+          "station": "ADM",
+          "stationId": "2",
+          "name_tc": "金鐘",
+          "name_sc": "金钟",
+          "name_en": "Admiralty"
+        },
+        {
+          "seq": 7,
+          "station": "WAC",
+          "stationId": "27",
+          "name_tc": "灣仔",
+          "name_sc": "湾仔",
+          "name_en": "Wan Chai"
+        },
+        {
+          "seq": 8,
+          "station": "CAB",
+          "stationId": "28",
+          "name_tc": "銅鑼灣",
+          "name_sc": "铜锣湾",
+          "name_en": "Causeway Bay"
+        },
+        {
+          "seq": 9,
+          "station": "TIH",
+          "stationId": "29",
+          "name_tc": "天后",
+          "name_sc": "天后",
+          "name_en": "Tin Hau"
+        },
+        {
+          "seq": 10,
+          "station": "FOH",
+          "stationId": "30",
+          "name_tc": "炮台山",
+          "name_sc": "炮台山",
+          "name_en": "Fortress Hill"
+        },
+        {
+          "seq": 11,
+          "station": "NOP",
+          "stationId": "31",
+          "name_tc": "北角",
+          "name_sc": "北角",
+          "name_en": "North Point"
+        },
+        {
+          "seq": 12,
+          "station": "QUB",
+          "stationId": "32",
+          "name_tc": "鰂魚涌",
+          "name_sc": "鲗鱼涌",
+          "name_en": "Quarry Bay"
+        },
+        {
+          "seq": 13,
+          "station": "TAK",
+          "stationId": "33",
+          "name_tc": "太古",
+          "name_sc": "太古",
+          "name_en": "Tai Koo"
+        },
+        {
+          "seq": 14,
+          "station": "SWH",
+          "stationId": "34",
+          "name_tc": "西灣河",
+          "name_sc": "西湾河",
+          "name_en": "Sai Wan Ho"
+        },
+        {
+          "seq": 15,
+          "station": "SKW",
+          "stationId": "35",
+          "name_tc": "筲箕灣",
+          "name_sc": "筲箕湾",
+          "name_en": "Shau Kei Wan"
+        },
+        {
+          "seq": 16,
+          "station": "HFC",
+          "stationId": "36",
+          "name_tc": "杏花邨",
+          "name_sc": "杏花邨",
+          "name_en": "Heng Fa Chuen"
+        },
+        {
+          "seq": 17,
+          "station": "CHW",
+          "stationId": "37",
+          "name_tc": "柴灣",
+          "name_sc": "柴湾",
+          "name_en": "Chai Wan"
+        }
+      ]
+    },
+    "KTL": {
+      "DT": [
+        {
+          "seq": 1,
+          "station": "TIK",
+          "stationId": "49",
+          "name_tc": "調景嶺",
+          "name_sc": "调景岭",
+          "name_en": "Tiu Keng Leng"
+        },
+        {
+          "seq": 2,
+          "station": "YAT",
+          "stationId": "48",
+          "name_tc": "油塘",
+          "name_sc": "油塘",
+          "name_en": "Yau Tong"
+        },
+        {
+          "seq": 3,
+          "station": "LAT",
+          "stationId": "38",
+          "name_tc": "藍田",
+          "name_sc": "蓝田",
+          "name_en": "Lam Tin"
+        },
+        {
+          "seq": 4,
+          "station": "KWT",
+          "stationId": "15",
+          "name_tc": "觀塘",
+          "name_sc": "观塘",
+          "name_en": "Kwun Tong"
+        },
+        {
+          "seq": 5,
+          "station": "NTK",
+          "stationId": "14",
+          "name_tc": "牛頭角",
+          "name_sc": "牛头角",
+          "name_en": "Ngau Tau Kok"
+        },
+        {
+          "seq": 6,
+          "station": "KOB",
+          "stationId": "13",
+          "name_tc": "九龍灣",
+          "name_sc": "九龙湾",
+          "name_en": "Kowloon Bay"
+        },
+        {
+          "seq": 7,
+          "station": "CHH",
+          "stationId": "12",
+          "name_tc": "彩虹",
+          "name_sc": "彩虹",
+          "name_en": "Choi Hung"
+        },
+        {
+          "seq": 8,
+          "station": "DIH",
+          "stationId": "11",
+          "name_tc": "鑽石山",
+          "name_sc": "钻石山",
+          "name_en": "Diamond Hill"
+        },
+        {
+          "seq": 9,
+          "station": "WTS",
+          "stationId": "10",
+          "name_tc": "黃大仙",
+          "name_sc": "黄大仙",
+          "name_en": "Wong Tai Sin"
+        },
+        {
+          "seq": 10,
+          "station": "LOF",
+          "stationId": "9",
+          "name_tc": "樂富",
+          "name_sc": "乐富",
+          "name_en": "Lok Fu"
+        },
+        {
+          "seq": 11,
+          "station": "KOT",
+          "stationId": "8",
+          "name_tc": "九龍塘",
+          "name_sc": "九龙塘",
+          "name_en": "Kowloon Tong"
+        },
+        {
+          "seq": 12,
+          "station": "SKM",
+          "stationId": "7",
+          "name_tc": "石硤尾",
+          "name_sc": "石硖尾",
+          "name_en": "Shek Kip Mei"
+        },
+        {
+          "seq": 13,
+          "station": "PRE",
+          "stationId": "16",
+          "name_tc": "太子",
+          "name_sc": "太子",
+          "name_en": "Prince Edward"
+        },
+        {
+          "seq": 14,
+          "station": "MOK",
+          "stationId": "6",
+          "name_tc": "旺角",
+          "name_sc": "旺角",
+          "name_en": "Mong Kok"
+        },
+        {
+          "seq": 15,
+          "station": "YMT",
+          "stationId": "5",
+          "name_tc": "油麻地",
+          "name_sc": "油麻地",
+          "name_en": "Yau Ma Tei"
+        },
+        {
+          "seq": 16,
+          "station": "HOM",
+          "stationId": "84",
+          "name_tc": "何文田",
+          "name_sc": "何文田",
+          "name_en": "Ho Man Tin"
+        },
+        {
+          "seq": 17,
+          "station": "WHA",
+          "stationId": "85",
+          "name_tc": "黃埔",
+          "name_sc": "黄埔",
+          "name_en": "Whampoa"
+        }
+      ],
+      "UT": [
+        {
+          "seq": 1,
+          "station": "WHA",
+          "stationId": "85",
+          "name_tc": "黃埔",
+          "name_sc": "黄埔",
+          "name_en": "Whampoa"
+        },
+        {
+          "seq": 2,
+          "station": "HOM",
+          "stationId": "84",
+          "name_tc": "何文田",
+          "name_sc": "何文田",
+          "name_en": "Ho Man Tin"
+        },
+        {
+          "seq": 3,
+          "station": "YMT",
+          "stationId": "5",
+          "name_tc": "油麻地",
+          "name_sc": "油麻地",
+          "name_en": "Yau Ma Tei"
+        },
+        {
+          "seq": 4,
+          "station": "MOK",
+          "stationId": "6",
+          "name_tc": "旺角",
+          "name_sc": "旺角",
+          "name_en": "Mong Kok"
+        },
+        {
+          "seq": 5,
+          "station": "PRE",
+          "stationId": "16",
+          "name_tc": "太子",
+          "name_sc": "太子",
+          "name_en": "Prince Edward"
+        },
+        {
+          "seq": 6,
+          "station": "SKM",
+          "stationId": "7",
+          "name_tc": "石硤尾",
+          "name_sc": "石硖尾",
+          "name_en": "Shek Kip Mei"
+        },
+        {
+          "seq": 7,
+          "station": "KOT",
+          "stationId": "8",
+          "name_tc": "九龍塘",
+          "name_sc": "九龙塘",
+          "name_en": "Kowloon Tong"
+        },
+        {
+          "seq": 8,
+          "station": "LOF",
+          "stationId": "9",
+          "name_tc": "樂富",
+          "name_sc": "乐富",
+          "name_en": "Lok Fu"
+        },
+        {
+          "seq": 9,
+          "station": "WTS",
+          "stationId": "10",
+          "name_tc": "黃大仙",
+          "name_sc": "黄大仙",
+          "name_en": "Wong Tai Sin"
+        },
+        {
+          "seq": 10,
+          "station": "DIH",
+          "stationId": "11",
+          "name_tc": "鑽石山",
+          "name_sc": "钻石山",
+          "name_en": "Diamond Hill"
+        },
+        {
+          "seq": 11,
+          "station": "CHH",
+          "stationId": "12",
+          "name_tc": "彩虹",
+          "name_sc": "彩虹",
+          "name_en": "Choi Hung"
+        },
+        {
+          "seq": 12,
+          "station": "KOB",
+          "stationId": "13",
+          "name_tc": "九龍灣",
+          "name_sc": "九龙湾",
+          "name_en": "Kowloon Bay"
+        },
+        {
+          "seq": 13,
+          "station": "NTK",
+          "stationId": "14",
+          "name_tc": "牛頭角",
+          "name_sc": "牛头角",
+          "name_en": "Ngau Tau Kok"
+        },
+        {
+          "seq": 14,
+          "station": "KWT",
+          "stationId": "15",
+          "name_tc": "觀塘",
+          "name_sc": "观塘",
+          "name_en": "Kwun Tong"
+        },
+        {
+          "seq": 15,
+          "station": "LAT",
+          "stationId": "38",
+          "name_tc": "藍田",
+          "name_sc": "蓝田",
+          "name_en": "Lam Tin"
+        },
+        {
+          "seq": 16,
+          "station": "YAT",
+          "stationId": "48",
+          "name_tc": "油塘",
+          "name_sc": "油塘",
+          "name_en": "Yau Tong"
+        },
+        {
+          "seq": 17,
+          "station": "TIK",
+          "stationId": "49",
+          "name_tc": "調景嶺",
+          "name_sc": "调景岭",
+          "name_en": "Tiu Keng Leng"
+        }
+      ]
+    },
+    "TML": {
+      "UT": [
+        {
+          "seq": 1,
+          "station": "WKS",
+          "stationId": "103",
+          "name_tc": "烏溪沙",
+          "name_sc": "乌溪沙",
+          "name_en": "Wu Kai Sha"
+        },
+        {
+          "seq": 2,
+          "station": "MOS",
+          "stationId": "102",
+          "name_tc": "馬鞍山",
+          "name_sc": "马鞍山",
+          "name_en": "Ma On Shan"
+        },
+        {
+          "seq": 3,
+          "station": "HEO",
+          "stationId": "101",
+          "name_tc": "恆安",
+          "name_sc": "恒安",
+          "name_en": "Heng On"
+        },
+        {
+          "seq": 4,
+          "station": "TSH",
+          "stationId": "100",
+          "name_tc": "大水坑",
+          "name_sc": "大水坑",
+          "name_en": "Tai Shui Hang"
+        },
+        {
+          "seq": 5,
+          "station": "SHM",
+          "stationId": "99",
+          "name_tc": "石門",
+          "name_sc": "石门",
+          "name_en": "Shek Mun"
+        },
+        {
+          "seq": 6,
+          "station": "CIO",
+          "stationId": "98",
+          "name_tc": "第一城",
+          "name_sc": "第一城",
+          "name_en": "City One"
+        },
+        {
+          "seq": 7,
+          "station": "STW",
+          "stationId": "97",
+          "name_tc": "沙田圍",
+          "name_sc": "沙田围",
+          "name_en": "Sha Tin Wai"
+        },
+        {
+          "seq": 8,
+          "station": "CKT",
+          "stationId": "96",
+          "name_tc": "車公廟",
+          "name_sc": "车公庙",
+          "name_en": "Che Kung Temple"
+        },
+        {
+          "seq": 9,
+          "station": "TAW",
+          "stationId": "67",
+          "name_tc": "大圍",
+          "name_sc": "大围",
+          "name_en": "Tai Wai"
+        },
+        {
+          "seq": 10,
+          "station": "HIK",
+          "stationId": "90",
+          "name_tc": "顯徑",
+          "name_sc": "显径",
+          "name_en": "Hin Keng"
+        },
+        {
+          "seq": 11,
+          "station": "DIH",
+          "stationId": "11",
+          "name_tc": "鑽石山",
+          "name_sc": "钻石山",
+          "name_en": "Diamond Hill"
+        },
+        {
+          "seq": 12,
+          "station": "KAT",
+          "stationId": "91",
+          "name_tc": "啟德",
+          "name_sc": "启德",
+          "name_en": "Kai Tak"
+        },
+        {
+          "seq": 13,
+          "station": "SUW",
+          "stationId": "92",
+          "name_tc": "宋皇臺",
+          "name_sc": "宋皇台",
+          "name_en": "Sung Wong Toi"
+        },
+        {
+          "seq": 14,
+          "station": "TKW",
+          "stationId": "93",
+          "name_tc": "土瓜灣",
+          "name_sc": "土瓜湾",
+          "name_en": "To Kwa Wan"
+        },
+        {
+          "seq": 15,
+          "station": "HOM",
+          "stationId": "84",
+          "name_tc": "何文田",
+          "name_sc": "何文田",
+          "name_en": "Ho Man Tin"
+        },
+        {
+          "seq": 16,
+          "station": "HUH",
+          "stationId": "64",
+          "name_tc": "紅磡",
+          "name_sc": "红磡",
+          "name_en": "Hung Hom"
+        },
+        {
+          "seq": 17,
+          "station": "ETS",
+          "stationId": "80",
+          "name_tc": "尖東",
+          "name_sc": "尖东",
+          "name_en": "East Tsim Sha Tsui"
+        },
+        {
+          "seq": 18,
+          "station": "AUS",
+          "stationId": "111",
+          "name_tc": "柯士甸",
+          "name_sc": "柯士甸",
+          "name_en": "Austin"
+        },
+        {
+          "seq": 19,
+          "station": "NAC",
+          "stationId": "53",
+          "name_tc": "南昌",
+          "name_sc": "南昌",
+          "name_en": "Nam Cheong"
+        },
+        {
+          "seq": 20,
+          "station": "MEF",
+          "stationId": "20",
+          "name_tc": "美孚",
+          "name_sc": "美孚",
+          "name_en": "Mei Foo"
+        },
+        {
+          "seq": 21,
+          "station": "TWW",
+          "stationId": "114",
+          "name_tc": "荃灣西",
+          "name_sc": "荃湾西",
+          "name_en": "Tsuen Wan West"
+        },
+        {
+          "seq": 22,
+          "station": "KSR",
+          "stationId": "115",
+          "name_tc": "錦上路",
+          "name_sc": "锦上路",
+          "name_en": "Kam Sheung Road"
+        },
+        {
+          "seq": 23,
+          "station": "YUL",
+          "stationId": "116",
+          "name_tc": "元朗",
+          "name_sc": "元朗",
+          "name_en": "Yuen Long"
+        },
+        {
+          "seq": 24,
+          "station": "LOP",
+          "stationId": "117",
+          "name_tc": "朗屏",
+          "name_sc": "朗屏",
+          "name_en": "Long Ping"
+        },
+        {
+          "seq": 25,
+          "station": "TIS",
+          "stationId": "118",
+          "name_tc": "天水圍",
+          "name_sc": "天水围",
+          "name_en": "Tin Shui Wai"
+        },
+        {
+          "seq": 26,
+          "station": "SIH",
+          "stationId": "119",
+          "name_tc": "兆康",
+          "name_sc": "兆康",
+          "name_en": "Siu Hong"
+        },
+        {
+          "seq": 27,
+          "station": "TUM",
+          "stationId": "120",
+          "name_tc": "屯門",
+          "name_sc": "屯门",
+          "name_en": "Tuen Mun"
+        }
+      ],
+      "DT": [
+        {
+          "seq": 1,
+          "station": "TUM",
+          "stationId": "120",
+          "name_tc": "屯門",
+          "name_sc": "屯门",
+          "name_en": "Tuen Mun"
+        },
+        {
+          "seq": 2,
+          "station": "SIH",
+          "stationId": "119",
+          "name_tc": "兆康",
+          "name_sc": "兆康",
+          "name_en": "Siu Hong"
+        },
+        {
+          "seq": 3,
+          "station": "TIS",
+          "stationId": "118",
+          "name_tc": "天水圍",
+          "name_sc": "天水围",
+          "name_en": "Tin Shui Wai"
+        },
+        {
+          "seq": 4,
+          "station": "LOP",
+          "stationId": "117",
+          "name_tc": "朗屏",
+          "name_sc": "朗屏",
+          "name_en": "Long Ping"
+        },
+        {
+          "seq": 5,
+          "station": "YUL",
+          "stationId": "116",
+          "name_tc": "元朗",
+          "name_sc": "元朗",
+          "name_en": "Yuen Long"
+        },
+        {
+          "seq": 6,
+          "station": "KSR",
+          "stationId": "115",
+          "name_tc": "錦上路",
+          "name_sc": "锦上路",
+          "name_en": "Kam Sheung Road"
+        },
+        {
+          "seq": 7,
+          "station": "TWW",
+          "stationId": "114",
+          "name_tc": "荃灣西",
+          "name_sc": "荃湾西",
+          "name_en": "Tsuen Wan West"
+        },
+        {
+          "seq": 8,
+          "station": "MEF",
+          "stationId": "20",
+          "name_tc": "美孚",
+          "name_sc": "美孚",
+          "name_en": "Mei Foo"
+        },
+        {
+          "seq": 9,
+          "station": "NAC",
+          "stationId": "53",
+          "name_tc": "南昌",
+          "name_sc": "南昌",
+          "name_en": "Nam Cheong"
+        },
+        {
+          "seq": 10,
+          "station": "AUS",
+          "stationId": "111",
+          "name_tc": "柯士甸",
+          "name_sc": "柯士甸",
+          "name_en": "Austin"
+        },
+        {
+          "seq": 11,
+          "station": "ETS",
+          "stationId": "80",
+          "name_tc": "尖東",
+          "name_sc": "尖东",
+          "name_en": "East Tsim Sha Tsui"
+        },
+        {
+          "seq": 12,
+          "station": "HUH",
+          "stationId": "64",
+          "name_tc": "紅磡",
+          "name_sc": "红磡",
+          "name_en": "Hung Hom"
+        },
+        {
+          "seq": 13,
+          "station": "HOM",
+          "stationId": "84",
+          "name_tc": "何文田",
+          "name_sc": "何文田",
+          "name_en": "Ho Man Tin"
+        },
+        {
+          "seq": 14,
+          "station": "TKW",
+          "stationId": "93",
+          "name_tc": "土瓜灣",
+          "name_sc": "土瓜湾",
+          "name_en": "To Kwa Wan"
+        },
+        {
+          "seq": 15,
+          "station": "SUW",
+          "stationId": "92",
+          "name_tc": "宋皇臺",
+          "name_sc": "宋皇台",
+          "name_en": "Sung Wong Toi"
+        },
+        {
+          "seq": 16,
+          "station": "KAT",
+          "stationId": "91",
+          "name_tc": "啟德",
+          "name_sc": "启德",
+          "name_en": "Kai Tak"
+        },
+        {
+          "seq": 17,
+          "station": "DIH",
+          "stationId": "11",
+          "name_tc": "鑽石山",
+          "name_sc": "钻石山",
+          "name_en": "Diamond Hill"
+        },
+        {
+          "seq": 18,
+          "station": "HIK",
+          "stationId": "90",
+          "name_tc": "顯徑",
+          "name_sc": "显径",
+          "name_en": "Hin Keng"
+        },
+        {
+          "seq": 19,
+          "station": "TAW",
+          "stationId": "67",
+          "name_tc": "大圍",
+          "name_sc": "大围",
+          "name_en": "Tai Wai"
+        },
+        {
+          "seq": 20,
+          "station": "CKT",
+          "stationId": "96",
+          "name_tc": "車公廟",
+          "name_sc": "车公庙",
+          "name_en": "Che Kung Temple"
+        },
+        {
+          "seq": 21,
+          "station": "STW",
+          "stationId": "97",
+          "name_tc": "沙田圍",
+          "name_sc": "沙田围",
+          "name_en": "Sha Tin Wai"
+        },
+        {
+          "seq": 22,
+          "station": "CIO",
+          "stationId": "98",
+          "name_tc": "第一城",
+          "name_sc": "第一城",
+          "name_en": "City One"
+        },
+        {
+          "seq": 23,
+          "station": "SHM",
+          "stationId": "99",
+          "name_tc": "石門",
+          "name_sc": "石门",
+          "name_en": "Shek Mun"
+        },
+        {
+          "seq": 24,
+          "station": "TSH",
+          "stationId": "100",
+          "name_tc": "大水坑",
+          "name_sc": "大水坑",
+          "name_en": "Tai Shui Hang"
+        },
+        {
+          "seq": 25,
+          "station": "HEO",
+          "stationId": "101",
+          "name_tc": "恆安",
+          "name_sc": "恒安",
+          "name_en": "Heng On"
+        },
+        {
+          "seq": 26,
+          "station": "MOS",
+          "stationId": "102",
+          "name_tc": "馬鞍山",
+          "name_sc": "马鞍山",
+          "name_en": "Ma On Shan"
+        },
+        {
+          "seq": 27,
+          "station": "WKS",
+          "stationId": "103",
+          "name_tc": "烏溪沙",
+          "name_sc": "乌溪沙",
+          "name_en": "Wu Kai Sha"
+        }
+      ]
+    },
+    "TCL": {
+      "DT": [
+        {
+          "seq": 1,
+          "station": "TUC",
+          "stationId": "43",
+          "name_tc": "東涌",
+          "name_sc": "东涌",
+          "name_en": "Tung Chung"
+        },
+        {
+          "seq": 2,
+          "station": "SUN",
+          "stationId": "54",
+          "name_tc": "欣澳",
+          "name_sc": "欣澳",
+          "name_en": "Sunny Bay"
+        },
+        {
+          "seq": 3,
+          "station": "TSY",
+          "stationId": "42",
+          "name_tc": "青衣",
+          "name_sc": "青衣",
+          "name_en": "Tsing Yi"
+        },
+        {
+          "seq": 4,
+          "station": "LAK",
+          "stationId": "21",
+          "name_tc": "茘景",
+          "name_sc": "茘景",
+          "name_en": "Lai King"
+        },
+        {
+          "seq": 5,
+          "station": "NAC",
+          "stationId": "53",
+          "name_tc": "南昌",
+          "name_sc": "南昌",
+          "name_en": "Nam Cheong"
+        },
+        {
+          "seq": 6,
+          "station": "OLY",
+          "stationId": "41",
+          "name_tc": "奧運",
+          "name_sc": "奥运",
+          "name_en": "Olympic"
+        },
+        {
+          "seq": 7,
+          "station": "KOW",
+          "stationId": "40",
+          "name_tc": "九龍",
+          "name_sc": "九龙",
+          "name_en": "Kowloon"
+        },
+        {
+          "seq": 8,
+          "station": "HOK",
+          "stationId": "39",
+          "name_tc": "香港",
+          "name_sc": "香港",
+          "name_en": "Hong Kong"
+        }
+      ],
+      "UT": [
+        {
+          "seq": 1,
+          "station": "HOK",
+          "stationId": "39",
+          "name_tc": "香港",
+          "name_sc": "香港",
+          "name_en": "Hong Kong"
+        },
+        {
+          "seq": 2,
+          "station": "KOW",
+          "stationId": "40",
+          "name_tc": "九龍",
+          "name_sc": "九龙",
+          "name_en": "Kowloon"
+        },
+        {
+          "seq": 3,
+          "station": "OLY",
+          "stationId": "41",
+          "name_tc": "奧運",
+          "name_sc": "奥运",
+          "name_en": "Olympic"
+        },
+        {
+          "seq": 4,
+          "station": "NAC",
+          "stationId": "53",
+          "name_tc": "南昌",
+          "name_sc": "南昌",
+          "name_en": "Nam Cheong"
+        },
+        {
+          "seq": 5,
+          "station": "LAK",
+          "stationId": "21",
+          "name_tc": "茘景",
+          "name_sc": "茘景",
+          "name_en": "Lai King"
+        },
+        {
+          "seq": 6,
+          "station": "TSY",
+          "stationId": "42",
+          "name_tc": "青衣",
+          "name_sc": "青衣",
+          "name_en": "Tsing Yi"
+        },
+        {
+          "seq": 7,
+          "station": "SUN",
+          "stationId": "54",
+          "name_tc": "欣澳",
+          "name_sc": "欣澳",
+          "name_en": "Sunny Bay"
+        },
+        {
+          "seq": 8,
+          "station": "TUC",
+          "stationId": "43",
+          "name_tc": "東涌",
+          "name_sc": "东涌",
+          "name_en": "Tung Chung"
+        }
+      ]
+    },
+    "TKL": {
+      "DT": [
+        {
+          "seq": 1,
+          "station": "POA",
+          "stationId": "52",
+          "name_tc": "寶琳",
+          "name_sc": "宝琳",
+          "name_en": "Po Lam"
+        },
+        {
+          "seq": 2,
+          "station": "HAH",
+          "stationId": "51",
+          "name_tc": "坑口",
+          "name_sc": "坑口",
+          "name_en": "Hang Hau"
+        },
+        {
+          "seq": 3,
+          "station": "TKO",
+          "stationId": "50",
+          "name_tc": "將軍澳",
+          "name_sc": "将军澳",
+          "name_en": "Tseung Kwan O"
+        },
+        {
+          "seq": 4,
+          "station": "TIK",
+          "stationId": "49",
+          "name_tc": "調景嶺",
+          "name_sc": "调景岭",
+          "name_en": "Tiu Keng Leng"
+        },
+        {
+          "seq": 5,
+          "station": "YAT",
+          "stationId": "48",
+          "name_tc": "油塘",
+          "name_sc": "油塘",
+          "name_en": "Yau Tong"
+        },
+        {
+          "seq": 6,
+          "station": "QUB",
+          "stationId": "32",
+          "name_tc": "鰂魚涌",
+          "name_sc": "鲗鱼涌",
+          "name_en": "Quarry Bay"
+        },
+        {
+          "seq": 7,
+          "station": "NOP",
+          "stationId": "31",
+          "name_tc": "北角",
+          "name_sc": "北角",
+          "name_en": "North Point"
+        }
+      ],
+      "TKS-DT": [
+        {
+          "seq": 1,
+          "station": "LHP",
+          "stationId": "57",
+          "name_tc": "康城",
+          "name_sc": "康城",
+          "name_en": "LOHAS Park"
+        },
+        {
+          "seq": 2,
+          "station": "TKO",
+          "stationId": "50",
+          "name_tc": "將軍澳",
+          "name_sc": "将军澳",
+          "name_en": "Tseung Kwan O"
+        },
+        {
+          "seq": 3,
+          "station": "TIK",
+          "stationId": "49",
+          "name_tc": "調景嶺",
+          "name_sc": "调景岭",
+          "name_en": "Tiu Keng Leng"
+        }
+      ],
+      "TKS-UT": [
+        {
+          "seq": 1,
+          "station": "TIK",
+          "stationId": "49",
+          "name_tc": "調景嶺",
+          "name_sc": "调景岭",
+          "name_en": "Tiu Keng Leng"
+        },
+        {
+          "seq": 2,
+          "station": "TKO",
+          "stationId": "50",
+          "name_tc": "將軍澳",
+          "name_sc": "将军澳",
+          "name_en": "Tseung Kwan O"
+        },
+        {
+          "seq": 3,
+          "station": "LHP",
+          "stationId": "57",
+          "name_tc": "康城",
+          "name_sc": "康城",
+          "name_en": "LOHAS Park"
+        }
+      ],
+      "UT": [
+        {
+          "seq": 1,
+          "station": "NOP",
+          "stationId": "31",
+          "name_tc": "北角",
+          "name_sc": "北角",
+          "name_en": "North Point"
+        },
+        {
+          "seq": 2,
+          "station": "QUB",
+          "stationId": "32",
+          "name_tc": "鰂魚涌",
+          "name_sc": "鲗鱼涌",
+          "name_en": "Quarry Bay"
+        },
+        {
+          "seq": 3,
+          "station": "YAT",
+          "stationId": "48",
+          "name_tc": "油塘",
+          "name_sc": "油塘",
+          "name_en": "Yau Tong"
+        },
+        {
+          "seq": 4,
+          "station": "TIK",
+          "stationId": "49",
+          "name_tc": "調景嶺",
+          "name_sc": "调景岭",
+          "name_en": "Tiu Keng Leng"
+        },
+        {
+          "seq": 5,
+          "station": "TKO",
+          "stationId": "50",
+          "name_tc": "將軍澳",
+          "name_sc": "将军澳",
+          "name_en": "Tseung Kwan O"
+        },
+        {
+          "seq": 6,
+          "station": "HAH",
+          "stationId": "51",
+          "name_tc": "坑口",
+          "name_sc": "坑口",
+          "name_en": "Hang Hau"
+        },
+        {
+          "seq": 7,
+          "station": "POA",
+          "stationId": "52",
+          "name_tc": "寶琳",
+          "name_sc": "宝琳",
+          "name_en": "Po Lam"
+        }
+      ]
+    },
+    "TWL": {
+      "DT": [
+        {
+          "seq": 1,
+          "station": "TSW",
+          "stationId": "25",
+          "name_tc": "荃灣",
+          "name_sc": "荃湾",
+          "name_en": "Tsuen Wan"
+        },
+        {
+          "seq": 2,
+          "station": "TWH",
+          "stationId": "24",
+          "name_tc": "大窩口",
+          "name_sc": "大窝口",
+          "name_en": "Tai Wo Hau"
+        },
+        {
+          "seq": 3,
+          "station": "KWH",
+          "stationId": "23",
+          "name_tc": "葵興",
+          "name_sc": "葵兴",
+          "name_en": "Kwai Hing"
+        },
+        {
+          "seq": 4,
+          "station": "KWF",
+          "stationId": "22",
+          "name_tc": "葵芳",
+          "name_sc": "葵芳",
+          "name_en": "Kwai Fong"
+        },
+        {
+          "seq": 5,
+          "station": "LAK",
+          "stationId": "21",
+          "name_tc": "茘景",
+          "name_sc": "茘景",
+          "name_en": "Lai King"
+        },
+        {
+          "seq": 6,
+          "station": "MEF",
+          "stationId": "20",
+          "name_tc": "美孚",
+          "name_sc": "美孚",
+          "name_en": "Mei Foo"
+        },
+        {
+          "seq": 7,
+          "station": "LCK",
+          "stationId": "19",
+          "name_tc": "茘枝角",
+          "name_sc": "茘枝角",
+          "name_en": "Lai Chi Kok"
+        },
+        {
+          "seq": 8,
+          "station": "CSW",
+          "stationId": "18",
+          "name_tc": "長沙灣",
+          "name_sc": "长沙湾",
+          "name_en": "Cheung Sha Wan"
+        },
+        {
+          "seq": 9,
+          "station": "SSP",
+          "stationId": "17",
+          "name_tc": "深水埗",
+          "name_sc": "深水埗",
+          "name_en": "Sham Shui Po"
+        },
+        {
+          "seq": 10,
+          "station": "PRE",
+          "stationId": "16",
+          "name_tc": "太子",
+          "name_sc": "太子",
+          "name_en": "Prince Edward"
+        },
+        {
+          "seq": 11,
+          "station": "MOK",
+          "stationId": "6",
+          "name_tc": "旺角",
+          "name_sc": "旺角",
+          "name_en": "Mong Kok"
+        },
+        {
+          "seq": 12,
+          "station": "YMT",
+          "stationId": "5",
+          "name_tc": "油麻地",
+          "name_sc": "油麻地",
+          "name_en": "Yau Ma Tei"
+        },
+        {
+          "seq": 13,
+          "station": "JOR",
+          "stationId": "4",
+          "name_tc": "佐敦",
+          "name_sc": "佐敦",
+          "name_en": "Jordan"
+        },
+        {
+          "seq": 14,
+          "station": "TST",
+          "stationId": "3",
+          "name_tc": "尖沙咀",
+          "name_sc": "尖沙咀",
+          "name_en": "Tsim Sha Tsui"
+        },
+        {
+          "seq": 15,
+          "station": "ADM",
+          "stationId": "2",
+          "name_tc": "金鐘",
+          "name_sc": "金钟",
+          "name_en": "Admiralty"
+        },
+        {
+          "seq": 16,
+          "station": "CEN",
+          "stationId": "1",
+          "name_tc": "中環",
+          "name_sc": "中环",
+          "name_en": "Central"
+        }
+      ],
+      "UT": [
+        {
+          "seq": 1,
+          "station": "CEN",
+          "stationId": "1",
+          "name_tc": "中環",
+          "name_sc": "中环",
+          "name_en": "Central"
+        },
+        {
+          "seq": 2,
+          "station": "ADM",
+          "stationId": "2",
+          "name_tc": "金鐘",
+          "name_sc": "金钟",
+          "name_en": "Admiralty"
+        },
+        {
+          "seq": 3,
+          "station": "TST",
+          "stationId": "3",
+          "name_tc": "尖沙咀",
+          "name_sc": "尖沙咀",
+          "name_en": "Tsim Sha Tsui"
+        },
+        {
+          "seq": 4,
+          "station": "JOR",
+          "stationId": "4",
+          "name_tc": "佐敦",
+          "name_sc": "佐敦",
+          "name_en": "Jordan"
+        },
+        {
+          "seq": 5,
+          "station": "YMT",
+          "stationId": "5",
+          "name_tc": "油麻地",
+          "name_sc": "油麻地",
+          "name_en": "Yau Ma Tei"
+        },
+        {
+          "seq": 6,
+          "station": "MOK",
+          "stationId": "6",
+          "name_tc": "旺角",
+          "name_sc": "旺角",
+          "name_en": "Mong Kok"
+        },
+        {
+          "seq": 7,
+          "station": "PRE",
+          "stationId": "16",
+          "name_tc": "太子",
+          "name_sc": "太子",
+          "name_en": "Prince Edward"
+        },
+        {
+          "seq": 8,
+          "station": "SSP",
+          "stationId": "17",
+          "name_tc": "深水埗",
+          "name_sc": "深水埗",
+          "name_en": "Sham Shui Po"
+        },
+        {
+          "seq": 9,
+          "station": "CSW",
+          "stationId": "18",
+          "name_tc": "長沙灣",
+          "name_sc": "长沙湾",
+          "name_en": "Cheung Sha Wan"
+        },
+        {
+          "seq": 10,
+          "station": "LCK",
+          "stationId": "19",
+          "name_tc": "茘枝角",
+          "name_sc": "茘枝角",
+          "name_en": "Lai Chi Kok"
+        },
+        {
+          "seq": 11,
+          "station": "MEF",
+          "stationId": "20",
+          "name_tc": "美孚",
+          "name_sc": "美孚",
+          "name_en": "Mei Foo"
+        },
+        {
+          "seq": 12,
+          "station": "LAK",
+          "stationId": "21",
+          "name_tc": "茘景",
+          "name_sc": "茘景",
+          "name_en": "Lai King"
+        },
+        {
+          "seq": 13,
+          "station": "KWF",
+          "stationId": "22",
+          "name_tc": "葵芳",
+          "name_sc": "葵芳",
+          "name_en": "Kwai Fong"
+        },
+        {
+          "seq": 14,
+          "station": "KWH",
+          "stationId": "23",
+          "name_tc": "葵興",
+          "name_sc": "葵兴",
+          "name_en": "Kwai Hing"
+        },
+        {
+          "seq": 15,
+          "station": "TWH",
+          "stationId": "24",
+          "name_tc": "大窩口",
+          "name_sc": "大窝口",
+          "name_en": "Tai Wo Hau"
+        },
+        {
+          "seq": 16,
+          "station": "TSW",
+          "stationId": "25",
+          "name_tc": "荃灣",
+          "name_sc": "荃湾",
+          "name_en": "Tsuen Wan"
+        }
+      ]
+    },
+    "SIL": {
+      "UT": [
+        {
+          "seq": 1,
+          "station": "ADM",
+          "stationId": "2",
+          "name_tc": "金鐘",
+          "name_sc": "金钟",
+          "name_en": "Admiralty"
+        },
+        {
+          "seq": 2,
+          "station": "OCP",
+          "stationId": "86",
+          "name_tc": "海洋公園",
+          "name_sc": "海洋公园",
+          "name_en": "Ocean Park"
+        },
+        {
+          "seq": 3,
+          "station": "WCH",
+          "stationId": "87",
+          "name_tc": "黃竹坑",
+          "name_sc": "黄竹坑",
+          "name_en": "Wong Chuk Hang"
+        },
+        {
+          "seq": 4,
+          "station": "LET",
+          "stationId": "88",
+          "name_tc": "利東",
+          "name_sc": "利东",
+          "name_en": "Lei Tung"
+        },
+        {
+          "seq": 5,
+          "station": "SOH",
+          "stationId": "89",
+          "name_tc": "海怡半島",
+          "name_sc": "海怡半岛",
+          "name_en": "South Horizons"
+        }
+      ],
+      "DT": [
+        {
+          "seq": 1,
+          "station": "SOH",
+          "stationId": "89",
+          "name_tc": "海怡半島",
+          "name_sc": "海怡半岛",
+          "name_en": "South Horizons"
+        },
+        {
+          "seq": 2,
+          "station": "LET",
+          "stationId": "88",
+          "name_tc": "利東",
+          "name_sc": "利东",
+          "name_en": "Lei Tung"
+        },
+        {
+          "seq": 3,
+          "station": "WCH",
+          "stationId": "87",
+          "name_tc": "黃竹坑",
+          "name_sc": "黄竹坑",
+          "name_en": "Wong Chuk Hang"
+        },
+        {
+          "seq": 4,
+          "station": "OCP",
+          "stationId": "86",
+          "name_tc": "海洋公園",
+          "name_sc": "海洋公园",
+          "name_en": "Ocean Park"
+        },
+        {
+          "seq": 5,
+          "station": "ADM",
+          "stationId": "2",
+          "name_tc": "金鐘",
+          "name_sc": "金钟",
+          "name_en": "Admiralty"
+        }
+      ]
+    }
+  },
+  "lines": {
+    "AEL": {
+      "en": "Airport Express Line",
+      "tc": "機場快綫",
+      "sc": "机场快线"
+    },
+    "EAL": {
+      "en": "East Rail Line",
+      "tc": "東鐵綫",
+      "sc": "东铁线"
+    },
+    "ISL": {
+      "en": "Island Line",
+      "tc": "港島綫",
+      "sc": "港岛线"
+    },
+    "KTL": {
+      "en": "Kwun Tong Line",
+      "tc": "觀塘綫",
+      "sc": "观塘线"
+    },
+    "SIL": {
+      "en": "South Island Line",
+      "tc": "南港島綫",
+      "sc": "南港岛线"
+    },
+    "TCL": {
+      "en": "Tung Chung Line",
+      "tc": "東涌綫",
+      "sc": "东涌线"
+    },
+    "TKL": {
+      "en": "Tseung Kwan O Line",
+      "tc": "將軍澳綫",
+      "sc": "将军澳线"
+    },
+    "TML": {
+      "en": "Tuen Ma Line",
+      "tc": "屯馬綫",
+      "sc": "屯马线"
+    },
+    "TWL": {
+      "en": "Tsuen Wan Line",
+      "tc": "荃灣綫",
+      "sc": "荃湾线"
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "company": {
+    "citybus": "城巴",
+    "kmb": "九巴",
+    "gmb": "專線小巴",
+    "mtr": "港鐵",
+    "timetable": "自訂時間表"
+  },
+  "dashboard": {
+    "title": "香港公共交通儀表板",
+    "lastUpdated": "最後更新"
+  },
+  "table": {
+    "header": {
+      "nextBus": "下一班車",
+      "nextTrain": "下一班列車",
+      "journey": "行程",
+      "destination": "目的地",
+      "direction": "方向",
+      "remarks": "備註",
+      "estimatedOffTime": "預計到達時間",
+      "nextDeparture": "下一班"
+    },
+    "body": {
+      "noBus": "暫時沒有巴士服務",
+      "noMiniBus": "暫時沒有小巴服務",
+      "noTrain": "暫時沒有列車服務",
+      "minutes": "約{{count}}分鐘",
+      "loading": "載入中",
+      "noDeparture": "今日已沒有班次"
+    },
+    "direction": {
+      "up": "上行",
+      "down": "下行",
+      "north": "北行",
+      "south": "南行",
+      "east": "東行",
+      "west": "西行",
+      "airport": "機場",
+      "hongkong": "香港"
+    }
+  },
+  "wizard": {
+    "title": "新增面板",
+    "addPanel": "+ 新增面板",
+    "editPanels": "編輯面板",
+    "done": "完成",
+    "cancel": "取消",
+    "back": "上一步",
+    "next": "下一步",
+    "confirm": "加入儀表板",
+    "operator": "運營商",
+    "selectOperator": "請選擇交通運營商",
+    "routeNumber": "路線號碼",
+    "validating": "驗證中…",
+    "routeValid": "路線已找到 ✓",
+    "routeNotFound": "找不到路線",
+    "validationFailed": "驗證失敗，請檢查網絡連接",
+    "selectRegion": "此路線在多個地區均有服務，請選擇",
+    "selectLine": "選擇路線",
+    "fromStation": "出發站",
+    "toStation": "目的站",
+    "direction": "方向",
+    "serviceType": "服務種類",
+    "serviceTypeHint": "此路線有多個服務種類，請選擇",
+    "service": "服務",
+    "fromStop": "上車站",
+    "toStop": "下車站",
+    "journeyDuration": "乘車時間（由上車站至下車站，分鐘）",
+    "optional": "可選",
+    "noPreference": "— 不指定 —",
+    "select": "— 請選擇 —",
+    "stopsLoading": "載入站點中…",
+    "confirmTitle": "確認 — 面板將加入儀表板",
+    "deletePanel": "刪除面板",
+    "timetableHint": "以自己的時間表建立面板，例如屋苑或公司穿梭巴士",
+    "timetableName": "名稱",
+    "timetableNamePlaceholder": "例如：屋苑穿梭巴士",
+    "timetableFrom": "出發地",
+    "timetableTo": "目的地",
+    "weekdayTimes": "平日開出時間",
+    "holidayTimes": "週末及公眾假期開出時間",
+    "timesHint": "24 小時制，以空格、逗號或換行分隔，例如 07:00, 07:30, 08:15",
+    "holidayTimesHint": "留空則每日使用平日時間",
+    "timesCount": "{{count}} 班",
+    "timesInvalid": "時間格式不正確：{{list}}",
+    "towards": "往 {{dest}}",
+    "region": "地區",
+    "regions": {
+      "HKI": "香港島",
+      "KLN": "九龍",
+      "NT": "新界"
+    },
+    "minutes": "{{count}} 分鐘"
+  }
+}
