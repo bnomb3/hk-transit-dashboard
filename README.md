@@ -48,6 +48,14 @@ npx vitest run    # run tests once
 - **Edit Panels** lets you delete panels or drag them into a new order.
 - The first visit loads a sample set of panels. To get back to it, clear the `transit_panels` key in `localStorage`.
 
+## Configuration
+
+Build-time settings live in `.env` and are read in `src/config.js`. To change one locally without touching the committed defaults, set it in `.env.local` (git-ignored). Values are baked into the bundle at build time, so restart `npm run dev` or rebuild after changing them.
+
+| Variable | Default | Meaning |
+|----------|---------|---------|
+| `VITE_REFRESH_SECONDS` | `60` | Seconds between data refreshes for every panel |
+
 ## Deploying to GitHub Pages
 
 The repo includes a workflow, `.github/workflows/deploy.yml`, that tests, builds and publishes `dist/` on every push to `main`.
@@ -79,6 +87,7 @@ Public holidays decide whether a custom timetable uses its weekday or its weeken
 src/
   App.jsx                 dashboard shell, language switcher, panel grid
   api.js                  API base URLs (dev proxy vs. direct)
+  config.js               build-time settings read from .env
   timetable.js            parser for user-entered departure times
   hooks/usePanels.js      panel list, defaults, localStorage persistence
   components/             one panel per operator, plus PanelWrapper

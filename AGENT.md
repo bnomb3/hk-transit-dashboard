@@ -23,7 +23,9 @@ This is a **Hong Kong public transit ETA dashboard** — a Vite + React single-p
 
 ### Data flow
 
-`App.jsx` holds `currentTime` (a timestamp that updates every hour) and `lang` (the display language). Both are passed as props to every panel component. Each panel re-fetches its data whenever `currentTime` changes.
+`App.jsx` holds `currentTime` (a timestamp that updates every `REFRESH_INTERVAL_MS`, 60 seconds by default) and `lang` (the display language). Both are passed as props to every panel component. Each panel re-fetches its data whenever `currentTime` changes.
+
+Build-time settings such as the refresh interval are `VITE_*` variables in `.env`, read and validated in `src/config.js`. Components import the constants from there; never read `import.meta.env.VITE_*` directly in a component.
 
 The list of panels comes from `src/hooks/usePanels.js`, which loads it from `localStorage` (key `transit_panels`), falls back to `DEFAULT_PANELS`, and exposes `addPanel` / `removePanel` / `reorderPanels`. `App.jsx` maps each panel config to a component in `renderPanel()` and wraps it in `PanelWrapper` (drag handle and delete button in edit mode, via `@dnd-kit`).
 
