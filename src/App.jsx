@@ -14,6 +14,7 @@ import {
   rectSortingStrategy,
 } from "@dnd-kit/sortable";
 
+import { REFRESH_INTERVAL_MS } from "./config";
 import { updateLuxonLocale } from "./i18n/config";
 import { usePanels } from "./hooks/usePanels";
 import { useTheme } from "./hooks/useTheme";
@@ -230,7 +231,7 @@ export default function App() {
   const [lang, setLang] = useState("en");
 
   useEffect(() => {
-    const interval = setInterval(() => setCurrentTime(Date.now()), 3600 * 1000);
+    const interval = setInterval(() => setCurrentTime(Date.now()), REFRESH_INTERVAL_MS);
     return () => clearInterval(interval);
   }, []);
 
